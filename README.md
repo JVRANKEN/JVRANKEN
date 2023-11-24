@@ -1,26 +1,4 @@
-### Hi there 👋
 
-
-<!--**JVRANKEN/JVRANKEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Header Section -->
-<p align="center">
-  <img src="https://github.com/JVRANKEN/JVRANKEN/blob/main/assets/profile-header.gif" alt="Header GIF">
-</p>
-
-
-Happy coding! 🚀
 
 <h1 align="center">Hi 👋, I'm Jeroen Vranken</h1>
 <h3 align="center">A passionate software developer from Belgium</h3>
@@ -29,7 +7,7 @@ Happy coding! 🚀
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvranken" alt="jvranken" /></a> </p>
 
-- 🔭 I’m currently working on **Skeleton, sport software**
+- 🔭 I’m currently working on **Skeletons, sport software, daily use software for personal use**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,3 +20,4 @@ Happy coding! 🚀
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jvranken"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jvranken" /></a></p><br><br>
 <!--https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<p>Happy coding! 🚀</p>
