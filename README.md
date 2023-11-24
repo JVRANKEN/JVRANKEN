@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvranken" alt="jvranken" /></a> </p>
 
-- 🔭 I’m currently working on **Skeletons, sport software, daily use software and some small demo's to learn new technologies**
+- 🔭 I’m currently working on **sport software, daily use software and some small demos to learn new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
